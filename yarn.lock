@@ -1278,6 +1278,16 @@
   "resolved" "https://registry.npmjs.org/@firebase/webchannel-wrapper/-/webchannel-wrapper-0.6.2.tgz"
   "version" "0.6.2"
 
+"@fontsource/open-sans@^4.5.10":
+  "integrity" "sha512-MrtTDfWb1Tu9YxVh2KaKmsKBn6O3KL/lHZS0KRKK58jgqvdwuiDt4QW4udmW4FQf0XOWgnZ+4vKUF80F3SqBAA=="
+  "resolved" "https://registry.npmjs.org/@fontsource/open-sans/-/open-sans-4.5.10.tgz"
+  "version" "4.5.10"
+
+"@fontsource/raleway@^4.5.9":
+  "integrity" "sha512-K0GFmuJ5mlEX2czTzRHLyiO2dJDS+GGdtPkPOempss4ElgkYLYpgyqBMcJno5WeSOC9ABGMmtSJ6RtVVljUBzw=="
+  "resolved" "https://registry.npmjs.org/@fontsource/raleway/-/raleway-4.5.9.tgz"
+  "version" "4.5.9"
+
 "@grpc/grpc-js@^1.3.2":
   "integrity" "sha512-eBM03pu9hd3VqDQG+kHahiG1x80RGkkqqRb1Pchcwqej/KkAH95gAvKs6laqaHCycYaPK+TKuNQnOz9UXYA8qw=="
   "resolved" "https://registry.npmjs.org/@grpc/grpc-js/-/grpc-js-1.6.7.tgz"
